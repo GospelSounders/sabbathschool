@@ -18,7 +18,7 @@ JANUARY 7, 1905.
 3. What condition exists where the Spirit of the Lord is? 2 Cor. 3:17.
 4. What is Satan's studied plan concerning man? 2 Peter 2:19. Note 1. How well has he succeeded?
 5. For what purpose was Christ manifested? 1 John 3:8.
-6. From what and for what purpose did God deliver Israel ? Deut. 5:15; Ps. 105:43-45.
+6. From what and for what purpose did God deliver Israel? Deut. 5:15; Ps. 105:43-45.
 7. What commands were given Israel for the release of Hebrew servants from perpetual servitude? Ex. 21:2; Lev. 25:39-43.
 8. How were the rights of strangers guarded? Ex. 22:21.
 9. How often was there to be a cancellation of debts, and release for the poor from debt? Deut. 15:7-9.

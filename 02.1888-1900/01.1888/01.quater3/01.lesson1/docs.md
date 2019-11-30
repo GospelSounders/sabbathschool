@@ -11,7 +11,7 @@ TOC: false
 
 July 7, 1888.
 
-## THE TIME OF THE MESSAGE.•
+## THE TIME OF THE MESSAGE.
 
 1. WHAT four kingdoms are represented in Dan. 2:31-40 and Dan. 7:1-7 ? Ans. — Babylon (Dan. 2:37, 38); Medo-Persia (Dan. 5:28); Grecia (Dan. 8:20, 21); Rome (Luke 2:1).
 2. What is represented by the ten horns upon the fourth beast? Dan. 7:7, 24.
