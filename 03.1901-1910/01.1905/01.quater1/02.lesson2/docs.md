@@ -1,7 +1,7 @@
 ---
 title: Lesson 2
 metadata:
-    description: Sabbath School Lesson. Religoius Liberty and Health and Temperance. Lesson 1 -The Sabbath and Liberty January 14, 1905.
+    description: Sabbath School Lesson. Religoius Liberty and Health and Temperance. Lesson 2 -The Sabbath and Liberty January 14, 1905.
     keywords: Sabbath School Lesson, The Bible and Liberty, Religious Liberty, Freedom of Consience, debt bondage
     author: Brian Onang'o
 TOC: false
