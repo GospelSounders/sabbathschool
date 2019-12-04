@@ -1,41 +1,40 @@
 ---
-title: Lesson 2
+title: Lesson 7
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: Sabbath School Lesson. Religoius Liberty and Health and Temperance. Lesson 7 - Appetite and Its Control February 18, 1905.
+    keywords: Sabbath School Lesson, The Bible and Liberty, Religious Liberty, Freedom of Consience, debt bondage
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### Lesson 7 — Appetite and Its Control.
 
-July 14, 1888.
+February 18, 1905.
 
-## THE TIME OF THE MESSAGE—Continued.
+## Questions
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. Upon what point was the test brought to our first parents? Give in outline the story of the temptation and fall. Gen. 3:1-5.
+2. Wherein was their weakness and the cause of their sin? Gen. 3:6. Note 1.
+3. In Eden if the physical senses, sight, taste, smell, etc., were not a safe guide to Adam and Eve, what dependence can be placed upon them now? Note 2.
+4. What has been one of Satan's strongest points of attack upon men ever since the fall? Note. 3.
+5. What largely contributed to the conditions existing before the flood? Matt. 24:37, 38; Luke 17:26, 27. Note 4.
+6. Did man learn the lessons God designed from the flood? Gen. 13:13; Eze. 16:49; Luke 17:28, 29. Note 5.
+7. When God set His hand to deliver His people, after their sojourn in Egypt, what were the first provisions made for the supply of their wants? Ex. 16:4. Note 6.
+8. How did they regard the plans of God for their welfare? Num. 21:5.
+9. What was the result? Ps. 106:14, 15; 78:17-31.
+10. What meaning has Israel's experience for God's people today? 1 Cor. 10:11.
+11. Were the lessons of self-control and purity of life wholly lost in ancient Israel? Note 7.
+>> "This Gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+12. What, besides the physical benefits to be received, was God's object in giving the sanitary restrictions to Israel? Lev. 20:7, 8, 26.
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+## Notes 
+
+1. In depending upon their own physical senses, instead of a simple faith in the Word of God, was the weakness of our first parents. Eve saw that the tree was good, though God said it was not. "Eve was beguiled by the serpent, and made to believe that God would not do as He had said. She ate, and, thinking she felt the sensation of a new and more exalted life, she bore the fruit to her husband. The serpent had said that she would not die, and she felt no ill effects from eating the fruit, — nothing that could be interpreted to mean death, but, instead, a pleasurable sensation, which she imagined was as the angels felt. Her experience stood arrayed against the positive command of Jehovah, yet Adam permitted himself to be seduced by it." — Christian Temperance, page 42.
+2. "As our first parents lost Eden through the indulgence of appetite, our only hope of regaining Eden is through the firm denial of appetite and passion... The controlling power of appetite will prove the ruin of thousands, when, if they had conquered on this point, then they would have had the moral power to gain the victory over every other temptation of Satan. But those who are slaves to appetite will fail in perfecting Christian character... As we near the close of time, Satan's temptations to indulge appetite will be more powerful and more difficult to overcome." — Testimonies, Vol. IV, page 491.
+3. "One of the strongest temptations that man has to meet is upon the point of appetite." — Christian Temperance, page 42.
+4. "The inhabitants of the antediluvian world were intemperate in eating and drinking. They would have flesh meats, although at that time God had given man no permission to eat animal food. They ate and drank till the indulgence of their depraved appetite knew no bounds, and they became so corrupt that God could bear with them no longer." — Christian Temperance, page 43.
+>> "The advent message to the world in this generation"—our watchword.
+5. "As men multiplied on the earth after the flood, they again forgot God, and corrupted their ways before Him. Intemperance in every form increased, until almost the whole world was given up to its sway... The gratification of unnatural appetite led to the sins that caused the destruction of Sodom and Gomorrah." — Id., page 43.
+6. "When God led the children of Israel out of Egypt, it was His purpose to establish them in the land of Canaan, a pure, healthy, happy people... He subjected them to a course of discipline, which, had it been cheerfully followed, would have resulted in good both to them and to their posterity... It was His purpose to supply them with food better suited to their wants than the feverish diet to which many of them had been accustomed in Egypt. The perverted appetite was to be brought into a more healthy state, that they might enjoy the food originally provided for man, — the fruits of the earth, which God gave to Adam and Eve in Eden." — Christian Temperance, page 118. Not only were directions given to Israel regarding diet,
+but the most perfect system of sanitary laws ever written was given them, as recorded in Leviticus.
+7. While, as a nation, Israel refused to heed God's voice, there were many who gladly listened to the instruction, and, either from the standpoint of mere ceremonialism or with simple faith in and obedience to God's Word, carried out the laws as instituted at Sinai. The story of murmuring and disobedience is not the only one left on record. The Levites, Daniel and his companions, and John the Baptist are notable examples of what obedience to the principles God laid down did for the faithful in Israel; and even today the Hebrew race is regarded as immune to certain diseases due to intemperance and impurity, as a result of the more or less rigid obedience to the sanitary laws given by Moses.
