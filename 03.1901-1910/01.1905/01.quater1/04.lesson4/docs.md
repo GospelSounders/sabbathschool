@@ -1,41 +1,119 @@
 ---
 title: Lesson 4
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: Sabbath School Lesson. Religoius Liberty and Health and Temperance. Lesson 4 - An Epoch of Freedom January 28, 1905.
+    keywords: Sabbath School Lesson, The Bible and Liberty, Religious Liberty, Freedom of Consience, debt bondage
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### Lesson 4 —  An Epoch of Freedom
 
-July 14, 1888.
+JANUARY 28, 1905.
 
-## THE TIME OF THE MESSAGE—Continued.
+>> Note.—This lesson is devoted largely to a consideration of religious liberty from the standpoint of the Constitution of the United States. We suggest to those using the lessons outside of the United States that, where thought necessary, the lesson be adapted as seems best.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+## Questions
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+1. In what words did Christ draw a clear distinction between religion and civil government? Matt. 22:21. What question drew out this answer ? Matt. 22 :15-21. Note 1.
+2. What nation in its constitution adopted the principle here laid down ? — The United States.
+3. What statements in the Constitution of the. United States show that this government claims no jurisdiction over religious matters? Note 2.
+4. What further shows that this government was established upon a new order of things ? Note 3.
+5. What great declaration had been made to all the world by the people of this country, which laid the foundation for all this ? After the introduction, what are the opening words of this declaration ? Note 4.
+6. What prophecy indicates that this nation will yet become a persecuting power ? Rev. 13 :11-17.
+7. How will this affect other nations? Note 5.
+8. What relic of a union of church and state has been retained by most of the states composing the United States ?—Sunday laws.
+9. For how long a time did the Congress of the United States refuse to pass a Sunday law ?—From 1789 to 1892, or for 103 years.
+10."Mention some attempts which have been made to secure national Sunday legislation in the United States, and thus get this government to commit itself to a course of religious legislation. Note 6.
+11. What are the names of some of the organizations
+which have been working to this end? Note 7.
+12. What will the success of their efforts result in forming ? Rev. 13:14.
+13. What terrible warning is given against this work ?
+Rev. 14:9-12.
+14. Through what means were church and state united
+in the fourth and fifth centuries ? How are they being
+united in the United States to-day?
+15. What is "the very message for this time" ? Note 8.
+16. Who only has liberty? John 8:34-36.
+
+## Notes
+
+1. Seeking to entangle Christ in His talk, the Pharisees
+put to Him what, in logic, is called a dilemma,—a proposition or argument with two or more alternatives, either of
+which is equally against the opponent. So the Pharisees
+reasoned that, if Christ should say, "Yes, it is lawful to
+pay tribute to Cmsar," He would offend the whole Jewish
+nation, and the Sanhedrin would therefore condemn Him to
+death. If He should say, "No, it is not lawful," then He
+would be opposing Caesar, and the Roman power would condemn Him to death. In either case it meant death to Him.
+But His answer to render to God and to Caesar each their
+own, while it evaded a direct "Yes"• or "No," was so just
+and reasonable that His enemies were completely confounded
+and put to silence. This has been called "the wisest answer
+ever given to a perplexed question." And this was the first
+enunciation to the world of the great principle of a separation of religion and civil government. In all ages idolatrous
+and pagan nations have regarded religion and government
+as one and inseparable.
+2. Article VI of the Constitution says: "No religious test
+shall ever be required as a qualification to any office or
+public trust under the United States." And the First Amendment says: "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof." The Fourteenth Amendment says: "No state shall make
+or enforce any law which shall abridge the privileges or
+immunities of citizens of the United States; nor shall any
+state deprive any person of life, liberty, or property without
+due process of law, nor deny to any person within its jurisdiction the equal protection of the laws."
+3. On the reverse side of the great seal of the United States
+is a Latin inscription reading, "Novos Ordo Seculorum," which
+means "A new order of things."
+4. "We hold these truths to be self-evident, that all men
+are created equal; that they are endowed by their Creator
+with certain unalienable rights; that among these are life,
+liberty, and the pursuit of happiness. That to secure these
+rights, governments are instituted among men."—Declaration
+of Independence.
+5. "As America, the land of religious liberty, shall unite
+with the Papacy in forcing the conscience and compelling
+men to honor the false Sabbath, the people of every country
+on the globe will be led to follow her example." ,"Foreign
+nations will follow the example of the United States. Though
+she leads out, yet the same crisis will come upon our people
+in all parts of the world."—Testimonies, Vol. VI, pages 18, 395.
+6. The first attempts to induce Congress to pass a Sunday
+law were made in 1828 and 1829 over the question of the
+transportation of the mails and the closing of post-offices on
+Sunday. The next was in 1888, when the Blair National Sunday Rest Bill was introduced. Then came the Breckenridge
+Sunday Bill for the District of Columbia, in 1890. All these
+in turn were defeated in 1892. But, through threats on the
+part of certain church leaders, Congress was finally induced
+to pass a measure for the closing of the World's Fair at
+Chicago, in 1893, on Sunday. In 1901 it passed another like
+measure for the closing of the St. Louis fair, in 1904, on
+Sunday. April 6, 1904, another bill for Sunday closing in
+the District of Columbia passed the House of Representatives, but was not brought before the Senate before Congress
+adjourned, thus leaving the bill still pending.
+7. The National Reform Association was organized at
+Xenia, Ohio, in 1863. Its office is located at 209 Ninth Street,
+Pittsburg, Pa. The American Sabbath Union was organized
+at Washington, D. C., Dec. 12, 1888. Its office address is 205 Broadway, New York. The International Reform Bureau,
+styling itself "the first 'Christian lobby' established at our
+national capital to speak to government in behalf of all denominations," was organized by Mr. W. F. Crafts, in 1895,
+with headquarters at 103 Maryland Avenue, N. E., Washington, D. C. The chief concern of all these is to secure state,
+national, and world-wide Sunday legislation, and the universal
+enforcement of Sunday observance by law.
+8. In 1889 this message came to us: "We as a people have
+not accomplished the work which God has committed to us.
+We are not ready for the issue to which the enforcement of
+the Sunday law will bring us. It is our duty, as we see the
+signs of approaching peril, to arouse to action. . . . The
+peculiar wont of the third angel has not been seen in its importance. God meant that His people should be far in advance of the position which they occupy to-day. But now,
+when the time has come for them to spring into action, they
+have the preparation to make. When the National Reformers
+began to urge measures to restrict religious liberty, our leading men should have been alive to the situation, and should
+have labored earnestly to counteract these efforts. It is not
+in the order of God that light has been kept from our people,—the very present truth •which they needed for this time.
+Not all our ministers who are giving the Third Angel's Message really understand what constitutes that message. The
+National Reform movement has been regarded by some as of
+so little importance that they have not thought it necessary
+to give much attention to it, and have even felt that, in so
+doing, they would be giving time to questions distinct from
+the Third Angel's Message. May the Lord forgive our brethren for thus interpreting the very message for this time."—
+Testimony No. 33, pages 239-243. 
