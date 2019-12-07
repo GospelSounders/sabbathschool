@@ -1,8 +1,8 @@
 ---
 title: 1888
 metadata:
-    description: 
-    keywords: 
+    description: 1888 Sabbath School Lessons, Old Testament History, Third Angel's Message, Epistle of Peter
+    keywords: Old Testament History,
     author: Brian Onang'o
 ---
 
@@ -10,17 +10,5 @@ metadata:
 
 YEAR/QUARTER |   1  | 2| 3| 4
 -------------|------------|---|--|---
-1886   | TheBibleSanctuary| TheLawandtheSabbath| TheLawandtheSabbath| ParablesofJesus
-1887   | MinistrationofAngels| FaithandObedience| SanctificationandPrayer| SanctificationandPrayer
-1888   | MinistrationofAngels| FaithandObedience| SanctificationandPrayer| SecondEpistleofPeter
-1888 | OldTestamentHistory | OldTestamentHistory | TheThirdAngelsMessage | SecondEpistleofPeter |
-1889 | OldTestamentHistory | OldTestamentHistory | TithesandOfferings | LettertotheHebrews |
-1890 | LettertotheHebrews | LettertotheHebrews | OldTestamentHistory | OldTestamentHistory |
-1891 | BookofJames | EpistletothePhilippians | GospelbyMark | GospelbyMark |
-1892 | OldTestamentHistory | OldTestamentHistory | ActsoftheApostles | ActsoftheApostles |
-1893 | WordandSpirit | ComingoftheLord | FirstEpistleofPeter | FirstEpistleofJohn |
-1894 | GospelbyLuke | GospelbyLuke | GospelbyLuke | GospelbyLuke |
-1895 | TheSanctuary | BookofDaniel | SabbathandTithing | ReligiousLiberty |
-1896 | TheGreatThreefold Message| LifeinChristandtheSaints'Inheritance | GospelbyJohn | GospelbyJohn |
-1897 | GospelbyJohn | GospelbyJohn | ActsoftheApostles | ActsoftheApostles
+1888   | [Old Testament History](/1888-1900/1888/quater1)| [Old Testament History](/1888-1900/1888/quater2)| [Third Angel's Message](/1888-1900/1888/quater3)| [Epistle of Peter](/1888-1900/1888/quater4)
 
