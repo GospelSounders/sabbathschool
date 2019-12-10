@@ -10,10 +10,7 @@ metadata:
 
 YEAR/QUARTER |   1  | 2| 3| 4
 -------------|------------|---|--|---
-1886   | TheBibleSanctuary| TheLawandtheSabbath| TheLawandtheSabbath| ParablesofJesus
-1887   | MinistrationofAngels| FaithandObedience| SanctificationandPrayer| SanctificationandPrayer
-1888   | MinistrationofAngels| FaithandObedience| SanctificationandPrayer| SecondEpistleofPeter
-1888 | OldTestamentHistory | OldTestamentHistory | TheThirdAngelsMessage | SecondEpistleofPeter |
+1888   | [Old Testament History](/1888-1900/1888/quarter1)| [Old Testament History](/1888-1900/1888/quarter2)| [Third Angel's Message](/1888-1900/1888/quarter3)| [Epistle of Peter](/1888-1900/1888/quarter4)
 1889 | OldTestamentHistory | OldTestamentHistory | TithesandOfferings | LettertotheHebrews |
 1890 | LettertotheHebrews | LettertotheHebrews | OldTestamentHistory | OldTestamentHistory |
 1891 | BookofJames | EpistletothePhilippians | GospelbyMark | GospelbyMark |
