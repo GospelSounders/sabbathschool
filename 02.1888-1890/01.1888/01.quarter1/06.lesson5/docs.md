@@ -31,11 +31,10 @@ February 4, 1888.
 16. Upon what alone does the Lord look in his estimation of men? 1 Sam. 16:7.
 17. How was it possible for Noah to remain upright in the midst of the universal corruption? Gen. 6:9, last clause.
 18. What is the extent of God's requirement of man? Micah 6:8.
-19. What effect did Noah's godly life have upon the world? Heb. 11:7." 
+19. What effect did Noah's godly life have upon the world? Heb. 11:7."
 
 ## NOTES
 
 "AND they took them wives of all which they chose." This indicates the utmost looseness in the marriage relation. It was just the same state of things that a certain class of Spiritualists express a desire for, and to which Spiritualism naturally tends. This was expressed recently by a correspondent of *Lucifer*, a  Spiritualist paper of an advanced type. Said he: "In my estimation, the way out of marriage should be as easy as the way in. Mutual consent to part should be as lawful as mutual consent to live together." It is through the spread of Spiritualism that the world will be just before the coming of Christ "as it was in the days of Noah." See 2 Tim. 3:1-8.
 
 NO MAN ever lived on this earth with whom the Spirit of God did not at some time strive. All men, however ignorant, have some knowledge of right and wrong, and upon this knowledge the Spirit works to convince them of sin. Says John:"That was the true Light, which lighteth every man that cometh into the world." John 1:9. Men may not have the written word, nevertheless it is true that the Spirit works by means of the word, which is its sword; for some of the light of the word is implanted in the heart of every man. See Rom. 2:14.
-

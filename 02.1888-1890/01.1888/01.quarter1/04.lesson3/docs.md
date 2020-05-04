@@ -16,8 +16,8 @@ January 21, 1888.
 1. In what condition was the whole creation when it came from the hand of God? Gen. 1:31.
 2. Did this include man also? Eccl. 7:29, first part.
 3. Did man retain his uprightness? Rom. 5:12.
-4. What prohibition had God laid upont he pair in the garden of Eden? Gen. 2:17.
-5. Who first partook of this forbidden fruit? Gen. 3:6..
+4. What prohibition had God laid upon the pair in the garden of Eden? Gen. 2:17.
+5. Who first partook of this forbidden fruit? Gen. 3:6.
 6. Was Adam deceived as to the consequences of the act? 1 Tim. 2:14.
 7. How was Eve deceived? 2 Cor. 1:3.
 8. Who was the serpent? Rev. 20:2.

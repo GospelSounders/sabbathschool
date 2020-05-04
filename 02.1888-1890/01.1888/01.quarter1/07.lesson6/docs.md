@@ -27,7 +27,7 @@ February 11, 1888.
 12. How long did Noah have to remain in the ark? Compare Gen. 7:11 with Gen. 8:13-16.
 13. When Noah came out what did he do? Gen. 8:20.
 14. What did the Lord say about floods in the future? Gen. 9:11.
-15. What pledge did he give to confirmt his promise? Verses 12-15.
+15. What pledge did he give to confirm this promise? Verses 12-15.
 16. What peculiar force is there in the expression, "I do set my bow in the cloud?" Rev. 4:3 ; Eze. 1:28.
 17. Then how strong was the assurance that there should never be another universal flood? Ans.- God has pledged his own glory that it shall not be.
 18. Will this earth never be destroyed by any means? 2 Peter 3:10.

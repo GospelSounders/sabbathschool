@@ -24,7 +24,7 @@ January 14, 1888.
 8. What is the meaning of "sanctify"? Ans. - "To set apart for a holy or religious use." - *Webster*.
 9. What is the name of the seventh day? Ex. 20:10.
 10. For whom was the Sabbath made? Mark 2:27.
-11. What is necessarily implied in the statement that after God had rested upon the seventh day he sanctified or set it apart? Ans.- That he told man what he had done,and commanded him to keep it holy.
+11. What is necessarily implied in the statement that after God had rested upon the seventh day he sanctified or set it apart? Ans.- That he told man what he had done, and commanded him to keep it holy.
 12. Give two instances of the use of the word "sanctify," which confirm this. Ex. 19:12, 23; Josh. 20:7, margin.
 13. What is the great object of the Sabbath? Eze 20:12.
 14. How does the Sabbath serve as a "sign" to make us know the true God? Ex. 31:15, 17.
@@ -38,4 +38,4 @@ January 14, 1888.
 
 ## NOTE.
 
-The same one who in six days created the heavens and the earth, also "rested the seventh day," and blessed and sanctified it "because that in it he had rested." We have already learned of Christ that "all things were created by him and for him; "therefore he must have made the Sabbath. Therefore he "is Lord even of the Sabbath day."This does not exclude the Father from the creation and the making of the Sabbath, for the two are one. God made the worlds by his Son. Both were united in the creation, as they are in everything; and so men "should honor the Son even as they honor the Father." When the Sabbath is not kept, both the Father and the Son are dishonored.
+The same one who in six days created the heavens and the earth, also "rested the seventh day," and blessed and sanctified it "because that in it he had rested." We have already learned of Christ that "all things were created by him and for him; "therefore he must have made the Sabbath. Therefore he "is Lord even of the Sabbath day." This does not exclude the Father from the creation and the making of the Sabbath, for the two are one. God made the worlds by his Son. Both were united in the creation, as they are in everything; and so men "should honor the Son even as they honor the Father." When the Sabbath is not kept, both the Father and the Son are dishonored.
