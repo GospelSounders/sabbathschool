@@ -1,41 +1,36 @@
 ---
-title: Lesson 2
+title: Lesson 6
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. The Third Angel's Message. The Development of the Beast. Lesson 6. August 11, 1888. 1. WHAT power is represented by the first beast of Rev. 13? Ans. - The Papacy. 2. From what was it developed? Ans. -\"A falling away.\" 2 Thess. 2:3."
+    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, August 11, 1888.
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### Lesson 6
 
-July 14, 1888.
+August 11, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## THE DEVELOPMENT OF THE BEAST.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
-
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+1. WHAT power is represented by the first beast of Rev. 13? Ans. - The Papacy.
+2. From what was it developed? Ans. -"A falling away." 2 Thess. 2:3.
+3. In what was shown the first definite evidence of falling away from the truth of God? Ans. - The adoption of heathen rites and customs. "The bishops augmented the number of religious rites in the Christian worship, by way of accommodation to the infirmities and prejudices, both of Jews and heathens, in order to facilitate their conversion to Christianity." "For this purpose, they gave the name of mysteries to the institutions of the gospel, and decorated particularly the holy sacrament with that solemn title. They used in that sacred institution, as also in that of baptism, several of the terms employed in the heathen mysteries, and proceeded so far, at length, as even to adopt some of the ceremonies of which those renowned mysteries consisted." - Mosheim, Church History, century II, part II, chap. 4, par. 2, 5.
+4. How early was this manifested? Ans.- "This imitation began in the Eastern provinces; but, after the time of Adrian [emperor A. D. 117-138] who first introduced the mysteries among the Latins, it was followed by the Christians who dwelt in the western parts of the empire." - Mosheim, Church History, century II, part II, chap. 4, par. 5.
+5. What worship was the most widely prevalent among all ancient nations? Ans. - Sun worship - "the oldest, the most widespread, and the most enduring of all the forms of idolatry known to man, viz:, the worship of the sun." - Talbot W Chambers, in Old Testament Student, January, 1886.
+6. When this worship was not directed to an image, how was it performed? Ans. - "Before the coming of Christ, all the Eastern nations performed divine worship with their faces turned to that part of the heavens where the sun displays his rising beams. This custom was founded upon a general opinion that God, whose essence they looked upon to be light, and whom they considered as being circumscribed within certain limits, dwelt in that part of the firmament, from which he sends forth the sun, the bright image of his benignity and glory." — Mosheim, Church History, century II, part II, chap. 4, par. 7. Eze. 8:16.
+7. Was this custom adopted by some who called themselves Christian? Ans. — "The Christian converts, indeed, rejected this gross error [of supposing that God dwelt in that part of the firmament; but they retained the ancient and universal custom of worshiping toward the east, which sprang from it. Nor is that custom abolished even in our times, but still prevails in a great number of Christian churches." — Mosheim, Id.
+8. What day was especially devoted to the sun?
+9. Was that day adopted by these Christians also? Ans. — "That very day was the Sunday of their heathen neighbors and respective countrymen; and patriotism gladly united with expediency in making it at once their Lord's day and their Sabbath." — North British Review as quoted in History of the Sabbath, chap. 16
+10. Upon what is the Papacy built? Ans. — Self-exaltation. 2 Thess. 2:4.
+11. In behalf of what was manifested the first arrogant claims of the Papacy? Ans. — In behalf of Sunday.
+12. By whom? Ans. — By Victor, who was bishop of Rome, A.D. 193-202.
+13. What did he command? Ans. — "He wrote an imperious letter to the Asiatic prelates commanding them to imitate the example of the Western Christians with respect to the time of celebrating the festival of Easter [that is, commanding them to celebrate it on Sunday]. The Asiatics answered this lordly requisition ... with great spirit and resolution, that they would by no means depart in this manner from the custom handed down to them by their ancestors. Upon this the thunder of excommunication began to roar. Victor, exasperated by this resolute answer of the Asiatic bishops, broke communion with them, pronounced them unworthy of the name of his brethren, and excluded them from all fellowship with the church of Rome." — Mosheim, Id., chap. 4, par. II.
+14. How early in the second century had this question been made an important one? Ans. — "About the middle of this century, during the reign of Antoninus Pius [about 160], the venerable Polycarp went to Rome to confer with Anicet, bishop of that See, upon this matter." — Id., par. 10.
+15. What is the great characteristic of the Papacy as a world power? Ans. — The union of Church and State, — the religious power dominating the civil power and using it to further its own ends.
+16. When was the union of Church and State formed, out of which grew the Papacy? Ans. — In the reign of Constantine, A.D. 313-337.
+17. What was the condition and work of most of the bishops at this time? Ans. — "Worldly-minded bishops, instead of caring for the salvation of their flocks, were often but too much inclined to travel about, and entangle themselves in worldly concerns." — Neander, Vol. II., p. 16, Torrey's Edition.
+18. What had these bishops determined to do? Ans. — "This theocratical theory was already the prevailing one in the time of Constantine; and ... the bishops voluntarily made themselves dependent on him by their disputes, *and by their determination to make use of the power of the State for the furtherance of aims"* — Id., p. 132.
+19. What is the "theocratical theory"? Ans. — The theory of government of a State by the immediate power or administration of God.
+20. What then is the effect of a man-made theocracy? Ans. — To put man in the place of God.
+21. Was this the outcome of the theocratical theory of the bishops of the fourth century? 2 Thess. 2:3, 4.

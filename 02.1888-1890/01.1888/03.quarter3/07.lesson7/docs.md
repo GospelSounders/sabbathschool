@@ -1,41 +1,38 @@
 ---
-title: Lesson 2
+title: Lesson 7
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. The Third Angel's Message. The Development of the Beast. Lesson 7. August 18, 1888. 1. WHAT did we find in the preceding les- son- was the determination of the bishops of the fourth century? Ans.—To make use of the power of the State for the furtherance of their own aims. 2. What was one of the principal aims of the Western bishops, especially the bishop of Rome? Ans.—The exaltation of Sunday."
+    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, August 18, 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+### Lesson 7
 
-July 14, 1888.
+August 18, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## THE DEVELOPMENT OF THE BEAST — Concluded.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. WHAT did we find in the preceding lesson was the determination of the bishops of the fourth century? Ans. — To make use of the power of the State for the furtherance of their own aims.
+2. What was one of the principal aims of the Western bishops, especially the bishop of Rome? Ans. — The exaltation of Sunday.
+3. What did they secure from Constantine? Ans. — An edict, in A.D. 321, in favor of Sunday — the first Sunday law that ever was.
+4. What was this law? Ans. — "Let all the judges and town people, and the occupation of all trades rest on the venerable day of the sun; but let those who are situated in the country, freely and at full liberty attend to the business of agriculture; because it often happens that no other day is so fit for sowing corn and planting vines; lest, the critical moment being let slip, men should lose the commodities granted by Heaven. Given the seventh day of March; Crispus and Constantine being consuls, each of them for the second time." — History of the Sabbath, chap. 19.
+5. Who convened the Council of Nice? Ans. — Constantine, A.D. 325.
+6. What was one of the two principal decisions rendered by that council? Ans. — That Easter should always and everywhere be celebrated on Sunday.
+7. Under what authority were its decrees published? Ans. — "The decrees of these synods were published under the imperial authority, and thus obtained a political importance." — Neander, Vol. 2, p. 133.
+8. Who was bishop of Rome during twenty-one years and eleven months of Constantine's reign? Ans. — Sylvester, January 31, 314, to December 31, 335.
+9. What did he do with his "apostolic authority" shortly after the Council of Nice? Ans. — He decreed that Sunday should be called the Lord's day. — History of the Sabbath, p. 350.
+10. What was commanded by the council of Laodicea, A.D. 363 or 364? Ans. — That if Christians should rest on the Sabbath, "let them be accursed from Christ;" and that they should rest on Sunday.
+11. Did Constantine's Sunday law apply to all classes?
+12. Were other laws demanded by the bishops, which should be more general? Ans. — "By a law of the year 386, those older changes effected by the Emperor Constantine were more rigorously enforced, and, in general, civil transactions of every kind on Sunday were strictly forbidden. Whoever transgressed was to be considered, in fact, as guilty of sacrilege." — Neander, Vol. 2., p. 300.
+13. What petition was made to the emperor by a church convention in A.D. 401? Ans. — "That the public shows might be transferred from the Christian Sunday and from feast days, to some other days of the week." —Id.
+14. What was the object of all these State laws? Ans. — "That the day might be devoted with less interruption to the purposes of devotion." "That the devotion of the faithful might be free from all disturbance." —Id., pp. 297, 301.
+15. What was it that so much hindered the devotion of the "faithful" of those times? Ans. — "Owing to the prevailing passion at that time, especially in the large cities, to run after the various public shows, it so happened that when these spectacles fell on the same days which had been consecrated by the church to some religious festival, they proved a great hindrance to the devotion of Christians, though chiefly, it must be allowed, to those whose Christianity was the least an affair of the life and of the heart." — Id., p. 300.
+16. How was their "devotion" disturbed? Ans.— "Church teachers ... were, in truth, often forced to complain, that *in such competitions the theater was vastly more frequented than the church."* — Id.
+17. What does Neander say of all this? Ans. — "In this way, the church received help from the State for the furtherance of her ends. ... But had it not been for that confusion of spiritual and secular interests, had it not been for the vast number of mere *outward conversions* thus brought about, she would have needed no such help." —Id., p. 301.
+18. When the church had received the help of the State to this extent did she stop there? Ans.— No, she demanded that the civil power should be exerted to compel men to serve God as the church should dictate.
+19. Which of the fathers of the church was father to this theory? Ans. — Augustine, who lived from A.D. 354 to 430.
+20. What did he teach? Ans. - "It is indeed better that men should be brought to serve God by instruction than by fear of punishment or by pain. But because the former means are better, the latter must not therefore be neglected. ... Many must often be brought back to their Lord, like wicked servants, by the rod of temporal suffering, before they attain to the highest grade of religious development." — Schaff's Church History, sec. 27; Augustine Epistle 185 ad Bonifacium, sec. 21, 24.
+21. What does Neander say of this? Ans. — "It was by Augustine, then, that a theory was proposed and founded, which ... contained the germ of that whole system of spiritual despotism, of intolerance and persecution, which ended in the tribunals of the inquisition." — Church History, Vol. 2, p. 217.
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+Thus was formed the union of Church and State out of which grew the Papacy. Thus was developed "the beast," which made war with the saints of God, and wore out the saints of the Most High.

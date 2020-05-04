@@ -1,7 +1,7 @@
 ---
 title: Lesson 1
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 1. July 7, 1888. The Time of the Message. WHAT four kingdoms are represented in Dan. 2,31-40 and Dan. 7,1-7? Ans. — Babylon (Dan. 2,37,38); Medo-Persia (Dan. 5,28 Grecia (Dan. 8:20, 21); Rome (Luke 2:1). What is represented by the ten horns upon the fourth beast? Dan. 7,7, 24. 3. To what date did the kingdom of Babylon continue? Ans. — B.C. 538. To what date did Medo-Persia continue? Ans. — B.C. 331. Grecia? Ans. — B.C. 168.   6. Rome? Ans. — A.D. 476.
+    description: Sabbath School Lesson. The Third Angel's Message. The time of the Message. Lesson 1. July 7, 1888. The Time of the Message. WHAT four kingdoms are represented in Dan. 2,31-40 and Dan. 7,1-7? Ans. — Babylon (Dan. 2,37,38); Medo-Persia (Dan. 5,28 Grecia (Dan. 8:20, 21); Rome (Luke 2:1). What is represented by the ten horns upon the fourth beast? Dan. 7,7, 24. 3. To what date did the kingdom of Babylon continue? Ans. — B.C. 538. To what date did Medo-Persia continue? Ans. — B.C. 331. Grecia? Ans. — B.C. 168.   6. Rome? Ans. — A.D. 476.
     keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 7 1888
     author: Brian Onang'o
 TOC: false

@@ -1,41 +1,49 @@
 ---
-title: Lesson 2
+title: Lesson 9
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. The Third Angel's Message. The Making of the Image of the Beast - Concluded. Lesson 9. September 1, 1888. 1. IF the influence of the Protestant churches, the Prohibition party, the W. C. T. U., the Workingmen, and the Catholic Church, were heartily united in favor of one measure, could not that measure be carried, whatever it might be? 2. Is there now any question upon which all these are united in sentiment, and upon which they are fast uniting in action? Ans. —  There is."
+    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, September 1, 1888.
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### LESSON 9
 
-July 14, 1888.
+September 1, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## THE MAKING OF THE IMAGE OF THE BEAST — Concluded.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. IF the influence of the Protestant churches, the Prohibition party, the W. C. T. U., the Workingmen, and the Catholic Church, were heartily united in favor of one measure, could not that measure be carried, whatever it might be?
+2. Is there now any question upon which all these are united in sentiment, and upon which they are fast uniting in action? Ans. —  There is.
+3. What is it? Ans. — The enforcement of Sunday-keeping by the State.
+4. Who are the sole leaders in this movement? Ans. — The leaders in the churches.
+5. To what extent are they working it? Ans. — They are "working" and lobbying almost every State Legislature in the Union, and the National Legislature also.
+6. What do they ask the State to do? Ans. — To stop all Sunday trains, abolish all Sunday papers, and stop all manner of work on Sunday.
+7. For what? Ans. - So that their "devotion may not be hindered."
+8. What is there about the Sunday train that hinders the devotion of the church-members? Ans. — "They get a great many passengers, and so break up a great many congregations." — Elgin, Ill., Sunday-law Convention, November, 1887. (I) "This railroad [the Chicago and Rock Island] has been running excursion trains from Des Moines to Colfax Springs on the Sabbath for some time, and ministers complain that their members go on these excursions. ... We need a Sabbath [Sunday] law that will bind the government and the corporation as well as the individual." — M. A. vault, in Christian Statesman, September 25, 1884.
+9. What is there about the Sunday newspaper that hinders their devotion? Ans. — "The laboring classes are apt to arise late on Sunday morning, read the Sunday papers, and allow the hour of worship to go by unheeded." — Elgin Convention.
+10. What was it that hindered the devotion of the church-members in the fourth century? Ans. — Sunday games and theaters.
+11. How? Ans. — They got a great many spectators "and so broke up a great many congregations;" the church-members would go to the games and theaters, and would "let the hour of worship go by unheeded," and so their devotion was "greatly hindered."
+12. Who were they whose devotion was thus especially disturbed? Ans — Those "whose Christianity was the least an affair of the life and of the heart."
+13. What then did they do? Ans. — As they had not enough conscience, nor love of right, to do what they considered to be right, they demanded that the State should take away from them all opportunity to do that which they deemed to be wrong.
+14. How is the matter worked now? Ans. — The same way precisely.
+15. Was the Papacy content with State laws stopping games and closing theaters? Ans. — No, all manner of work must be stopped.
+16. Will the image of the Papacy be content with laws stopping Sunday trains, and abolishing Sunday newspapers? Ans. — "Let a man be what he may — Jew, seventh-day observer of some other denomination, or those who do not believe in the Christian Sabbath — let the law apply to everyone, that there shall be no public desecration of the first day of the week, the Christian Sabbath, the day of rest for the nation. They may hold any other day of the week as sacred, and observe it; but that day which is the one day in seven for the nation at large, let that not be publicly desecrated by anyone, by officer in the Government, or by private citizen, high or low, rich or poor." — Dr. McAllister, editor Christian Statesman.
+17. Why do they want to compel all people to keep Sunday? Ans. — Because "he who does not keep the Sabbath [Sunday] does not worship God." — Elgin Convention.
+18. Then what is the purpose of all their Sunday laws? Ans. — To compel all men to worship.
+19. What is it in reality that they will compel men, by this means, to worship? Rev. 13:12.
+20. What grew out of the Sunday-law movement in the fourth century? Ans. — The beast.
+21. What will just as surely grow out of this Sunday-law movement in our day? Ans. — The image of the beast.
+22. What did the beast do? Ans. — He made war with the saints. Rev. 13:7 ; Dan. 7:21, 25.
+23. What will the image of the beast do? Rev. 13:16, 17. "Resolved, That we give our patronage to such business men, manufacturers, and laborers as observe the Sabbath [Sunday]." — Elgin Sunday-law Convention.
+24. What further will the image of the beast endeavor to do? Rev. 13:15.
+25. Is it in the minds of these National Reformers to do this?
+At the Lakeside National Reform Convention, 1887, a certain person said of the enforcement of Sunday-laws, "There is a law in the State of Arkansas enforcing Sunday observance upon the people, and the result has been that many good persons have not only been imprisoned, but have lost their property and even their lives."
+And Dr. McAllister replied: "It is better that a few should suffer than that the whole nation should lose its Sabbath."
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+26. Under what plea did the chief priests and Pharisees justify themselves in killing the Saviour? Ans. — "It is expedient for us, that one man should die for the people, and that the whole nation perish not." "Then from that day forth they took counsel together for to put him to death." John 11::50, 53.
+27. Will these in our day accomplish their purpose upon those who refuse to worship the beast and his image? Rev. 15:2.
+
+## NOTE
+
+In the Christian Nation, December 14, 1887, Rev. W. T. McConnell, a representative National Reformer, published an "open letter" to the American Sentinel, in which he said:— "You look for trouble in this land in the future, if these principles are applied. I think it will come to you if you maintain your present position. The foolhardy fellow who persists in standing on a railroad track may well anticipate trouble when he hears the rumble of the coming train. If he shall read the signs of the times in the screaming whistle and flaming head-light, he may change his position and avoid the danger, but if he won't be influenced by these, his most gloomy forebodings of trouble wilt be realized when the express strikes him. So you, neighbor, if, through prejudice or the enmity of unregenerate hearts, you have determined to oppose the progress of this nation in fulfilling its vocation as an instrument in the divine work of regenerating human society, may rightly expect trouble. It will be sure to come to you."

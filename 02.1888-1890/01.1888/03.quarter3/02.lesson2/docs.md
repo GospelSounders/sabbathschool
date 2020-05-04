@@ -1,7 +1,7 @@
 ---
 title: Lesson 2
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
+    description: Sabbath School Lesson. The Third Angel's Message. The time of the Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
     keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
     author: Brian Onang'o
 TOC: false

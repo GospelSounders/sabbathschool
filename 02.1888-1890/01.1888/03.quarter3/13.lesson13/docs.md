@@ -1,41 +1,43 @@
 ---
-title: Lesson 2
+title: Lesson 13
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. The Third Angel's Message. The Seven Last Plagues. Lesson 13. September 29, 1888. 1. WHEN the Third Angel's Message shall have done its work, what voice will then be heard from the heavenly temple? Rev. 16:r. 2. In addition to all these plagues, what awful famine will be upon men? Amos 8: 11, 12."
+    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, September 29 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### LESSON 13
 
-July 14, 1888.
+September 29, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## THE SEVEN LAST PLAGUES.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. WHEN the Third Angel's Message shall have done its work, what voice will then be heard from the heavenly temple? Rev. 16:1.
+2. In addition to all these plagues, what awful famine will be upon men? Amos 8: 11, 12.
+3. What will be the first plague? and upon whom will it fall? Rev. 16:2.
+4. What will be the second plague? Verse 3.
+5. What will be the third plague? Verse 4.
+6. Why will the rivers and fountains of water be turned to blood? Verse 6.
+7. What will be the fourth plague? Verses 8,9.
+8. What will be the further effect of this? Joel 1:18-20.
+9. What will be the fifth plague? Rev. 16:10.
+10. Will those who love the truth of God be afraid in this time of darkness and dread? Ps. 91:5-8.
+11. What will be the sixth plague? Rev. 16:12.
+12. Does this refer to the literal river Euphrates, or to the nation that dwells in the country of the Euphrates? Ans. - The nation. Note.
+13. What then does the drying up of the river mean? Ans. - Evidently the wiping out of the Turkish power, - the nation that now rules the Euphrates country.
+14. What did the prophet see at this same time? Verse 13.
+15. What are these spirits? Verse 14, first part.
+16. What do they go forth to do? Last part of the same verse, with Rev. 19:11, 15, 19.
+17. When the seventh angel pours out his vial what is heard? Rev. 16:17.
+18. What is this voice? Jer. 25:30.
+19. What will then happen to heaven and earth? Hag. 2:21, 22; Heb. 12:26; Rev. 16:18, 20.
+20. What then falls upon men? Rev. 16:21.
+21. What will the people of God do in this fearful time? Joel 3:16; Isa. 25:9.
+22. Will any of these plagues afflict them? Ps. 91:9, 10.
+23. What will assure to all this perfect safety? Ans. - The love of the truth of the Third Angel's Message. Ps. 91:4; Zeph. 2:3.
+24. Then is not that message the most precious boon this world can know?
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+## NOTE
+
+QUESTION 12. - It is not possible that it should refer to the literal river, because never in all history have the waters of the literal river Euphrates been a hindrance to any kings either of the East or of the West. A thousand years before Christ, the kings of Assyria crossed it regularly every spring - at the very time when the waters were the highest - in their campaigns. In the year 269 A.D., Tiridates, king of Armenia, swam it with his armor on. - Gibbon, chap. 13, par. 21. The view that the reference is to the power that rules the country of the Euphrates, and not to the literal river, is strengthened by the fact that Isaiah in speaking of the king of Assyria and his armies plainly calls them, "The waters of the river." " Now therefore, behold, the Lord bringeth up upon them [the people of Judah] the waters of the river, strong and many, even the king of Assyria, and all his glory; and he shall come up over all his channels, and go over all his banks." Isa. 8:7.

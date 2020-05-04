@@ -1,41 +1,37 @@
 ---
-title: Lesson 2
+title: Lesson 12
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. The Third Angel's Message. The Last Message of Mercy. Lesson 12. September 22, 1888. 1. How great will be the pressure to compel all to keep Sunday in this nation? Rev. 13:15-17. 2. But what says the word of God against it? Rev. 24:9, 10."
+    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, September 22 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### Lesson 12
 
-July 14, 1888.
+September 22, 18.
 
-## THE TIME OF THE MESSAGE—Continued.
+## THE LAST MESSAGE OF MERCY.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
-
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+1. How great will be the pressure to compel all to keep Sunday in this nation? Rev. 13:15-17.
+2. But what says the word of God against it? Rev. 14:9, 10.
+3. In what form is it said this wine will be poured out? Ans. - "Without mixture."
+4. Is there a cup now in the hand of the Lord from which he pours out? Ps. 75:8.
+5. What is said of this cup? Ans. -"It is full of mixture."
+6. While it is thus full of mixture, what is it to those who accept God's mercy? Ps. 116:13.
+7. After salvation has been poured out of this cup, what time is referred to when the wine is "poured out without mixture"? Ans. - The time when there will be no salvation for sinners.
+8. If men will not drink of the cup of salvation, of what will they be compelled to drink? Jer. 25:15,28; Ps. 75:8, last part.
+9. What is this wine of the wrath of God? Rev. 15:1,7.
+10. What are these seven plagues called? Ans. - The seven last plagues.
+11. Will there be any service in the heavenly temple while these plagues are being poured out? Rev. 15:8.
+12. What does this show? Ans. - That then there will be no intercessor, and no salvation for sinners.
+13. Who will suffer these plagues? Rev. 14:9,20.
+14. How extensive will be the worship of the beast? Rev. 13:8.
+15. What does God do to try to save men from this awful doom? Ans. - He sends them the Third Angel's Message.
+16. Then what does this show the Third Angel's Message to be? Ans. - The last message of mercy to the world.
+17. What follows close upon it? Rev:14:14.
+18. What is said to him, and what is done by him, who sits upon the cloud? Verses 15,16.
+19. What is the harvest? Matt. 13:39.
+20. Then what follows close upon the Third Angel's Message?
+21. Then what again does this show this message to be? Ans. - The last message of mercy to the world.
+22. Then is not this message the most important thing in the world?
