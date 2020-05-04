@@ -42,6 +42,7 @@ That is more than liberty.
 And more graces for the good.
 There is mercy with the Saviour;
 There is healing in his blood.
+
 "For the love of God is broader
 Than the measure of man's mind;
 And the heart of the Eternal

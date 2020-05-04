@@ -1,8 +1,8 @@
 ---
 title: Lesson 26
 metadata:
-    description: Sabbath School Lesson. Old Testament History. Lesson 26. June 30, 1888. Suggestions for quartely review.
-    keywords: Sabbath School Lesson, Old Testament History, Suggestions for quartely review, Lesson 26. June 30, 1888.
+    description: Sabbath School Lesson. Old Testament History. Lesson 26. June 30, 1888. Suggestions for quarterly review.
+    keywords: Sabbath School Lesson, Old Testament History, Suggestions for quarterly review, Lesson 26. June 30, 1888.
     author: Brian Onang'o
 TOC: false
 ---
@@ -11,7 +11,7 @@ TOC: false
 
 June 30, 1888.
 
-|| See note to lesson 13; the same suggestions will apply to this lesson.
+>>> See note to lesson 13; the same suggestions will apply to this lesson.
 
 1. GIVE a brief Bible description of the character of Abraham.
 2. What was the foundation of Abraham's righteousness?
