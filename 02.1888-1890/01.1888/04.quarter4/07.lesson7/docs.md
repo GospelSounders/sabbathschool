@@ -1,41 +1,47 @@
 ---
-title: Lesson 2
+title: Lesson 7
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. 2 PETER 2:10-22. Lesson 7. December 8, 1888. 1. WHAT does the apostle Peter say of the character of the false teachers who in the last days shall cause many to err from the truth? 2 Peter 2:10, 12, 13, 14.
+2. What shows their contempt for authority? Verse 10; Jude 8, 10.
+3. How does their conduct in this respect contrast with that of beings who are really great? 2 Peter 2:11.
+4. What example of Christ's have we concerning speaking evil even of the wicked? Jude 9."
+    keywords: Sabbath School Lesson, 2nd Peter, December 8, 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### LESSON 7
 
-July 14, 1888.
+December 8, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## 2 PETER 2:10-22.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. WHAT does the apostle Peter say of the character of the false teachers who in the last days shall cause many to err from the truth? 2 Peter 2:10, 12, 13, 14.
+2. What shows their contempt for authority? Verse 10; Jude 8, 10.
+3. How does their conduct in this respect contrast with that of beings who are really great? 2 Peter 2:11.
+4. What example of Christ's have we concerning speaking evil even of the wicked? Jude 9.
+5. What positive commandment have we concerning our attitude toward those holding high positions? Rom. 13:1; 1 Tim. 2:1, 2.
+6. Are we at liberty to make an exception in the case of wicked rulers? 1 Tim. 2:1, 2; Titus 3:1, 2.
+7. Whose example does the apostle say these false teachers follow? 2 Peter 2:15; Jude 11.
+8. Relate in brief the circumstances of Balaam's connection with the children of Israel. See Numbers, chapters 22, 23, 24.
+9. What is said of the instability of such ones, and of their final end? 2 Peter 2:17; Jude 12, 13.
+10. By what means do they allure souls to destruction? 2 Peter 2:18.
+11. What do they promise those who follow them? Verse 19.
+12. Yet into what bondage do they bring their dupes? John 8:34.
+13. To what are people made subject through fear of death? Heb. 2:14, 15.
+14. What is it that causes death and the fear of it? Rom. 5:12.
+15. Then what is it that brings men into bondage?
+16. Who alone can give freedom? Ps. 102:19, 20; Isa. 61:1.
+17. Where alone is true liberty found? Ps. 119:45; John 8:32.
+18. What profit is it to a man to be freed from the pollutions of the world, if he afterwards returns to them? 2 Peter 2:20, 21.
+19. Then what should be done by each one who has come to the knowledge of Christ? 2 Peter 1:10.
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+## NOTES
+
+THEY are not afraid to speak of evil dignities." The dignities, or, more literally, glories, here referred to are doubtless supernatural powers, whether good or bad. The Syriac has it, " They shudder not with awe while they blaspheme." The meaning evidently is that these presumptuous, licentious teachers of what they claim is religion, have no regard for authority. This is shown by the first part of the verse, where it is said that they "despise government." There is no special class of people to whom the specifications of this chapter will apply, except Spiritualists. Not that all Spiritualists are actually openly immoral; but there is not one who does not hold to doctrines that naturally lead to immorality. They teach that man is himself a part of God, and so is amenable to no power but himself; that he is a law to himself, and is his own judge. Now it makes no difference how much men prate about culture, refinement, elevation, and morality, when they shut themselves off from the only Source of morality. When men teach 'that the impulses of their own natures are the only, law to be followed, they must eventually land in the pit of corruption.
+
+BUT when men despise the government of God, it is but a step to the despising of all human authority. Indeed, when men do not regard the claims of God, whatever obedience they render to human laws is due solely to fear of immediate punishment. In the Bible, honor to earthly kings is placed next to the fear of God. Says Peter, "Fear God. Honor the king." 1 Peter 2:17. And the commandment to ancient Israel was: "Thou shalt not revile God, nor curse a ruler of thy people." Ex. 22:28, Revised Version. It is worthy of note that most Spiritualists are open sympathizers with anarchy. Respect for authority is the prime factor in true religion. The man who is not afraid to speak evil of those who are in authority, who rails at those who are in official position, whether in Heaven, or in earthly Governments, is a dangerous man. He may not do any great evil, because. of lack of opportunity; but once let him have an opportunity, without the fear of physical punishment to deter him, and there is nothing to restrain him from going to the greatest lengths. It is a bad sign to see a man railing at even a wicked ruler. When Peter wrote, " Honor the king," and Paul wrote, " Let every soul be subject unto the higher powers" (Rom. 13:1), wicked kings were reigning. But they occupied the place of authority, and their official position was to be respected, however wicked they might be.
+
+SAYS the apostle: "They allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error." A man always falls, if he does fall, in the direction toward which he leans. Says Christ: "From within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness," etc. Mark 7:21, 22. Now with these propensities existing naturally in the heart, it inevitably follows that when a man heeds the words of those who " despise government," he will fall to the lowest depths of vice. 
+
+So the apostle continues: "While they promise them liberty, they themselves are the servants of corruption; for of whom a man is overcome, of the same is he brought in bondage." These false teachers, and their name nowadays is legion, talk a great deal about "liberty." They refuse to be bound down by laws. They tell their dupes to assert their godlike power and be free. It was thus that Satan tempted Eve. "Ye shall be like God," said he, and he made her believe that the just law of God was arbitrary, and devised solely for the purpose of keeping man in an inferior position. Too late she found out the baseness of such a charge. " The bondage of corruption " is the worst bondage conceivable. Even in this life, men find that liberty is found only in obedience to law. Daniel Wise truly said that "perfect liberty is perfect obedience to a perfect law." Law is the best friend that man has. And "the glorious liberty of the sons of God "will be shared only by such as "keep the law of God." They will have the freedom of God's universe throughout eternity, while to those who seek liberty in following their own devices, is reserved " the blackness of darkness forever."

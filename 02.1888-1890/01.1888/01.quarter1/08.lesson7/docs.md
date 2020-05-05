@@ -46,4 +46,4 @@ February 18, 1888.
 
 It is not to be expected that all shall commit to memory the figures given in this lesson, although many of the younger scholars may not find it difficult to do so. Even though all could commit these figures to memory, it would be somewhat difficult for them to grasp fully the idea they are designed to convey, without something to aid them. Accordingly the teacher should prepare some sort of a diagram, showing by different lines how long the patriarchs lived contemporaneously, and how few lives it took to span the period of time from the creation till the call of Abraham. This lesson is designed to show how easy it was to preserve and transmit the knowledge of the truth of God. A diagram will be found on page 11.
 
-![Diagram]({{{cself}}}/images/chronologytoAbraham.png)
+![Diagram](%public_url%/images/chronologytoAbraham.png)

@@ -1,41 +1,51 @@
 ---
-title: Lesson 2
+title: Lesson 8
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. 2 PETER 3:1-7. Lesson 8. December 15, 1888. 1. To whom was the second epistle of Peter addressed? 2 Peter 1:1.
+2. Why was it written? 2 Peter 3:1.
+3. Of what does the apostle wish us to be mindful? Verse 2."
+    keywords: Sabbath School Lesson, 2nd Peter, December 15, 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### LESSON 8
 
-July 14, 1888.
+December 15, 1888
 
-## THE TIME OF THE MESSAGE—Continued.
+## 2 PETER 3:1-7.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+(Commit to memory the verses in Peter which form the basis of this lesson.)
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+1. To whom was the second epistle of Peter addressed? 2 Peter 1:1.
+2. Why was it written? 2 Peter 3:1.
+3. Of what does the apostle wish us to be mindful? Verse 2.
+4. What purpose does prophecy serve? 2 Peter 1:19.
+5. Upon what is special light given by the prophecy? 1 Peter 1:11, last part; Dan. 2:28.
+6. Give reference to some prophecies which foretell the final glory of Christ, and give the substance of each. Ps. 50:1-3; Hab. 3:3-6 ; Isa. 63:1-6, etc.
+7. What must we look for just before the end? 2 Peter 3:3 ; Jude 17, 18.
+8. Mention some other places in the writings of the apostles where this is foretold. 1 Tim. 4:1, 2; 2 Tim. 3:1-5, 13; 4:1-4; 2 Thess. 2:8-10.
+9. Of what do these scoffers profess to be ignorant? 2 Peter 3:4.
+10. Is there any excuse for such ignorance? Verse 5.
+11. What notable event recorded in Scripture shows that all things have not continued as they were from the beginning of the creation? Verses 5, 6.
+12. How did the earth come into existence? Ps. 33:6, 8, 9.
+13. In what condition was the earth at first? Gen. 1:2.
+14. What division was first made in this watery mass? Verses 6, 7.
+15. What was done with the waters that were beneath the firmament? Verse 9; Ps.33:7.
+16. When, by the word of the Lord, the flood destroyed the earth, how did the waters that were stored up in the earth contribute to that result? Gen. 7:11.
+17. What fate, by the same authority, now awaits the earth? 2 Peter 3:7.
+18. Where has the word of the Lord declared this? Nahum 1:5; Isa. 34:8-10; Deut. 32:22.
+19. What positive assurance have we that this will be done? Ans.-We have the word of Him who spoke the earth into existence, and who caused the water that constituted a portion of the earth, to contribute to its destruction. See 2 Peter 3:5-7.
+20. Show the analogy between the destruction of the earth by water, and its destruction by fire. See note on verses 5-7.
+
+## NOTES
+
+THE phrase, "the earth standing out of the water and in  the water," does not at all express the idea of the original. The Greek word which in the Authorized Version is rendered "standing," should, as the margin indicates, be rendered "consisting." Robinson's "Lexicon of the New Testament" says of the word: "To *place together* parts into a whole, i.e., to constitute, to create, to bring into existence. Hence, in N.T., intransitive, *to be constituted, created; to exist,*" as in Col.1:17, "by him all things *consist.*" Wakefield translates the passage thus: "A heaven and earth formed out of water and by means of water." Bloomfield. says: "The earth ... being formed out of water, and consisting by means of water." Murdock's translation of the Syriac has it: "The earth rose up from the waters, and by means of water, by the word of God." The meaning is that the earth in its chaotic state was simply a watery mass, as indicated by Gen. 1:2: "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+
+"WHEREBY the world that then was, being overflowed with water, perished." When God gathered the waters together into one place, and made the dry land appear, he evidently stored large quantities of water in the interior, of the earth. This is indicated in the second commandment, by the phrase, "the waters which are under the earth," and by Ps. 136:6: "To him that stretched out the earth above the waters," and also by Ps. 33:7 ; 24:1, 2. In the flood which destroyed the earth in the days of Noah, the waters in the interior of the earth united with the rain from heaven, as the record says: "The same day were all the fountains of the great deep broken up, and the windows of heaven were opened." Gen. 7:11. The idea of the passage in Peter's epistle is that one of the very elements from which the earth was formed, was made to contribute to its destruction. Having disproved the assertion that all things continue as they were from the beginning of the creation, the apostle draws a parallel, thus:-
+
+"But the heavens and the earth, which are now, by the same word [the word of God, see verse 5] are kept in store, reserved unto fire against the day of Judgment and perdition of ungodly men." 2 Peter 3:7. Instead of, "are kept in store reserved unto fire against the day of Judgment," a better translation would be, "stored with fire, reserved unto the day of Judgment." Now the comparison is at once apparent. By the word of God, the earth, in the beginning, was formed from the watery mass which God had spoken into existence. Part of this water was stored up in the earth, and by the word of God was afterward caused to overflow the earth, and contribute to its destruction. And the same word of God, which performed this, has stored the interior of this present earth with fire, and is keeping it till the day of Judgment, when, as in the case of the waters of the flood, the fire within the earth, uniting with that which comes down from God out of Heaven (Rev. 20:9) will destroy it.
+
+PARTICULAR attention should be given to the word "kept." Instead of all things continuing as they were - from the beginning of the creation, the earth has within it the elements of its destruction, and it is only the power of God that stays the catastrophe.
+
+SOME have fancied that this chapter teaches that the earth will be annihilated at the Judgment day. This is a mistake. This earth will be destroyed in the same sense that the original earth "perished" by the waters of the earth. It was all broken up, and the face of it was changed, so that the earth after the flood had no resemblance to the earth before the flood. This was the last and greatest curse caused by sin, and completed the desolation of the earth. But the matter which composed the earth was not destroyed. So by the fires of the last day "the elements shall melt with fervent heat," but they will not be annihilated. From those melted elements, "new heavens and a new earth" will be formed, which will have no more resemblance to this sin-cursed earth than this earth does to Eden, the garden of God. The people that shall dwell in it will all be righteous (Isa. 60:21); and "the wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. It shall blossom abundantly, and rejoice even with joy and singing; the glory of Lebanon shall be given unto it. the excellency of Carmel and Sharon, they shall see the glory of the Lord, and the excellency of our God." Isa. 35:1, 2.

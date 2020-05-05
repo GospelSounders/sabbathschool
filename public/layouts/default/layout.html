@@ -311,7 +311,7 @@
 
   <script>
     $(document).ready(function () {
-        $('.fb-share-c').attr('href',
+      $('.fb-share-c').attr('href',
         `https://www.facebook.com/sharer/sharer.php?u=${encodeURI(window.location.href)}`)
       let auth = $('#authC').html()
       try {
@@ -390,7 +390,19 @@
     });
 
   </script>
+  {{#meta.plugins.responsivevoice}}
+  <script src="https://code.responsivevoice.org/responsivevoice.js?key=zneopyP0"></script>
+  {{/meta.plugins.responsivevoice}}
+  {{#meta.plugins.mermaid}}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.5.0/mermaid.min.js"></script>
+  <script src="mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true
+    });
 
+  </script>
+  {{/meta.plugins.mermaid}}
 </body>
 
 </html>

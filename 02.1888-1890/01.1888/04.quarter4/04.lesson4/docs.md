@@ -1,41 +1,48 @@
 ---
 title: Lesson 4
 metadata:
-    description: Sabbath School Lesson. The Third Angel's Message. Lesson 2. July 14, 1888. 1. To what event, and date, were we brought in the previous lesson? 2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13;3, first part, and verse 10. 3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7;4-8 with Rev. 13;1, 2; and Dan. 7;8, 25 with Rev. 13;5-7.
-    keywords: Sabbath School Lesson, The Third Angel's Message, Daniel, Prophecy, July 14 1888
+    description: "Sabbath School Lesson. 2 PETER 1:7-15. Lesson 4. November 17, 1888. 1. REPEAT the list of. virtues sometimes called \"Peter's ladder.\" 2 Peter r:5-7.
+2. What is the crowning grace? Verse 7, last part.
+3. What is charity? Col. 3:4. What other very common word is equivalent to charity? See Col. 3:14, and other texts in Revised Version.
+5. What is the end or object of the commandment, or law, of God? 1 Tim. 1:5."
+    keywords: Sabbath School Lesson, 2nd Peter, November 17 1888
     author: Brian Onang'o
 TOC: false
 ---
 
-#### Lesson 2
+#### Lesson 4
 
-July 14, 1888.
+November 17, 1888.
 
-## THE TIME OF THE MESSAGE—Continued.
+## 2 PETER 1:7-15.
 
-1. To what event, and date, were we brought in the previous lesson?
-2. In this dealing with the Papacy what additional prophecies were fulfilled ? Rev. 13:3, first part, and verse 10.
-3. How may we know that this prophecy relates to the same power as that in the previous lesson? Compare Dan. 7:4-8 with Rev. 13:1, 2; and Dan. 7:8, 25 with Rev. 13:5-7.
-4. Was this captivity and deadly wound to put a total end to the Papacy? Rev. 13:3.
-5. When was it that this captivity occurred ? ANS — A.D. 1798.
-6. At that time what else did the prophet see? Rev. 13:11.
-7. Is it for us to know what this means? Deut. 29:29.
-8. Is this a revelation ? Rev. 1:1, 3.
-9. What part of the world was represented by the symbol of the leopard? Ans. — Grecia. What by the bear? Ans. — Media and Persia. What by the lion? Ans. — Babylonia. What by the beast and the ten horns ? Ans. — *Western Europe and North Africa.*
-10. Then as the characteristics of all these are found in the first beast of Rev. 13, what parts of the world are covered by the description of this first beast? Ans. — The principal parts of Europe, Asia, and Africa.
-11. Whence was this other beast seen coming up ? Ans. — "Out of the earth." Rev. 13:11.
-12. Whence had the first beast risen? Rev. 13:1.
-13. What is meant by "sea" when used as a symbol ? Rev. 17:15.
-14. What then is represented by a power coming up out of the sea? See note.
-15. What by a power coming out of the earth? See note.
-16. In 1798, how much of Europe, Asia, and Africa, was occupied by peoples, multitudes, and established and organized nations? Ans. — All the known parts of them.
-17. How long had it been so? Ans. — For ages.
-18. Therefore, as the symbols which are directly connected with the beast, embrace the principal parts of Europe, Asia, and Africa, as all the rest of the known parts of the Eastern Continent had been for ages occupied by established nations; and as the other beast was to arise where this had not been so; where must this "other beast" arise? Ans. — In the Western Continent.
-19. Did the dominion of the first beast or any of the ten kingdoms extend to any part of the Western Continent in 1798? Ans. — It did. Spain, France, Portugal, and Britain then owned all except the possessions of what had been the thirteen British colonies, but which then formed the United States of America.
-20. What position then did the Government of the United States occupy in 1798? Ans. — It was the only independent nation then on the earth, which had arisen where there had not formerly been for ages, peoples, multitudes, and established nations.
-21. What then is the inevitable conclusion? Ans. — That the United States Government is the power signified in the prophecy of Rev. 13:11-17.
-22. What is to be said to the people of this Government? Verse 14, last part.
-23. When they shall have made an image to the beast, what will he do ? Verses 11, 15.
+1. REPEAT the list of. virtues sometimes called " Peter's ladder." 2 Peter 1:5-7.
+2. What is the crowning grace? Verse 7, last part.
+3. What is charity? Col. 3:4.
+4. What other very common word is equivalent to charity? See Col. 3:14, and other texts in Revised Version.
+5. What is the end or object of the commandment, or law, of God? 1 Tim. 1:5.
+6. What, indeed, is Bible charity or love? Rom. 13:10; 1 John 5:2, 3.
+7. What is the whole duty of man? Eccl. 12:13.
+8. Then since the keeping of the commandments is charity, how does charity compare with the other graces? 1 Cor. 13:13.
+9. Into how much of our actions should charity enter? 1 Cor. 16:14.
+10. Without charity, what is the most eloquent man like? 1 Cor. 13:1.
+11. Will the possession of great faith and deep knowledge of the mysteries of God, make up in any degree for lack of charity? Verse 2.
+12. Show that charity does not consist simply in making great sacrifices and giving to the poor. Verse 3.
+13. Tell what are the characteristics of charity. Verses 4-6.
+14. If all these graces abound in any person what will be his condition? 2 Peter:8.
+15. Name some of the fruits that are equivalent to the above graces. Gal. 5:22, 23.
+16. What is the condition of one who lacks these things? 2 Peter 1:9.
+17. Then what should we do? Verse 10.
+18. What glorious reward awaits those in whom "these things" abound? Verse 11.
+19. What must be the nature of those who inherit that eternal kingdom? Titus 2:13, 14; Rev. 21:27.
+20. Is the fact that we know these things any reason why we should not study them diligently? 2 Peter 1:12.
+21. Why was the apostle so zealous in stirring up the minds of the people concerning these great truths? Verses 13, 14.
+22. What had the Lord shown him concerning his death? John 21:18, 19.
+23. What was Peter's earnest desire that we should do? 2 Peter 1:15.
+24. If these things are always in our mind, what prayer may we offer? Ps. 5:1.
 
-## NOTE.
-QUESTIONS 14, 15.  — In his vision of the seventh chapter, Daniel says:"The four winds of the heaven strove upon the great sea. And four great beasts came up from the sea." These four great beasts represented the four great kingdoms of Babylon, Medo-Persia, Grecia, and Rome. Each of these arose by overthrowing the one that had gone before it. And as a symbolic sea represents peoples, multitudes, nations, and tongues, it is easy to understand how these great powers came up from the sea. It is also plain that a power symbolized as coming up out of the earth would arise from a condition of things the opposite of that represented as the sea; that is, from a place where, before it, there had not been peoples, multitudes, nations, and tongues.
+## NOTES
+
+CHARITY, or love, is "the bond of perfectness." This may readily be understood when we remember that "love is the fulfilling of the law," and that the whole law of God, including every duty that can be required of man, is summed up in the two precepts, " Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind," and, "Thou shalt love thy neighbor as thyself." The love which is the bond of perfectness is not a mere emotion, but is a living, active principle, manifest in every deed and thought of one's life. Of course it is understood that love is the bond of perfectness only when there is underlying faith, for faith works by love, and love is the product of faith.
+
+"GIVE diligence, to make your calling and election sure." Many are called, but few are chosen. How many are called? All. Here is the call: "Ho, every one that thirsteth,' come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price." Isa. 55:1. "Whosoever will, let him take the water of life freely." Rev. 22:17. But not all will heed the call; and of those who listen to it, very few comparatively will gain the final inheritance, because the great majority will not agonize to enter in. "Many, I say unto you, will seek to enter in, and shall not be able." Luke 13:24. A man may even be one of the elect, - one of the specially 24 loved of God, yet if he does not give diligence to make his election sure, he will certainly fall. The doctrine of the perseverance of the saints" is an excellent one, if the saints only persevere; but they must not imagine that because they have tasted that the Lord is precious, and have felt the power of the world to come, therefore they are bound to be kept to the end, regardless of their own actions. Only those who patiently continue in well-doing can have eternal life. To each Christian the warning is given, "Hold that fast which thou hast, that no man take thy crown." Rev. 3:11.

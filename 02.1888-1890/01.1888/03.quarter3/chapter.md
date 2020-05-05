@@ -26,3 +26,6 @@ toc: false
 - [Lesson 11 - The Mark of the Beast](/1888-1890/1888/quarter3/lesson11)
 - [Lesson 12 - The Last Message of Mercy](/1888-1890/1888/quarter3/lesson12)
 - [Lesson 13 - The Seven Last Plagues](/1888-1890/1888/quarter3/lesson13)
+- [Lesson 14 - The Wrath of the Dragon](/1888-1890/1888/quarter3/lesson14)
+- [Lesson 15 - The Working of Satan](/1888-1890/1888/quarter3/lesson15)
+- [Lesson 16 - The Final Contest and the Victory](/1888-1890/1888/quarter3/lesson16)

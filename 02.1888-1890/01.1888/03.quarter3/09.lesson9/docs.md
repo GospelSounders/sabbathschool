@@ -41,7 +41,7 @@ September 1, 1888.
 At the Lakeside National Reform Convention, 1887, a certain person said of the enforcement of Sunday-laws, "There is a law in the State of Arkansas enforcing Sunday observance upon the people, and the result has been that many good persons have not only been imprisoned, but have lost their property and even their lives."
 And Dr. McAllister replied: "It is better that a few should suffer than that the whole nation should lose its Sabbath."
 
-26. Under what plea did the chief priests and Pharisees justify themselves in killing the Saviour? Ans. — "It is expedient for us, that one man should die for the people, and that the whole nation perish not." "Then from that day forth they took counsel together for to put him to death." John 11::50, 53.
+26. Under what plea did the chief priests and Pharisees justify themselves in killing the Saviour? Ans. — "It is expedient for us, that one man should die for the people, and that the whole nation perish not." "Then from that day forth they took counsel together for to put him to death." John 11:50, 53.
 27. Will these in our day accomplish their purpose upon those who refuse to worship the beast and his image? Rev. 15:2.
 
 ## NOTE
