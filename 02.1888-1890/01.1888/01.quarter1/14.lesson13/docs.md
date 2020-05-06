@@ -1,7 +1,7 @@
 ---
 title: Lesson 13
 metadata:
-    description: Sabbath School Lesson. Old Testament History. Lesson 13. March 31, 1888. DSuggestions for quarterly review. 
+    description: Sabbath School Lesson. Old Testament History. Lesson 13. March 31, 1888. Suggestions for quarterly review. 
     keywords: Sabbath School Lesson, Old Testament History, Lesson 13. March 31, 1888, Suggestions for quarterly review.
     author: Brian Onang'o
 TOC: false

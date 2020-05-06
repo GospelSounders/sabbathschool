@@ -298,6 +298,7 @@
     </div>
   </div>
 
+
   <!-- JavaScript -->
   <script src="{{config.base_url}}/themes/default/lib/jquery/dist/jquery.min.js"></script>
   <script src="{{config.base_url}}/themes/default/lib/popper.js/dist/umd/popper.min.js"></script>
@@ -389,6 +390,8 @@
       })
     });
 
+    $(".content").attr('id', 'mainContent').attr('contenteditable', 'true').attr('data-sample', '1');
+
   </script>
   {{#meta.plugins.responsivevoice}}
   <script src="https://code.responsivevoice.org/responsivevoice.js?key=zneopyP0"></script>
@@ -403,6 +406,29 @@
 
   </script>
   {{/meta.plugins.mermaid}}
+  <!-- <script src="https://cdn.ckeditor.com/ckeditor5/19.0.0/classic/ckeditor.js"></script> -->
+  <!-- <script src="https://cdn.ckeditor.com/ckeditor5/19.0.0/inline/ckeditor.js"></script> -->
+  <!-- <script src="https://cdn.ckeditor.com/ckeditor5/19.0.0/balloon/ckeditor.js"></script> -->
+  <script src="{{config.base_url}}/themes/default/scripts/ckeditor/ckeditor.js"></script>
+  <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+  <!-- <script src='https://www.scribens.com/scribens-integration.js'></script> -->
+
+  <!-- <script>
+    InlineEditor
+        .create( document.querySelector( '#editor' ) )
+        .catch( error => {
+            console.error( error );
+        } );
+</script> -->
+<script data-sample="1">
+  // We need to turn off the automatic editor creation first.
+  CKEDITOR.disableAutoInline = true;
+
+  CKEDITOR.inline( 'mainContent', {
+    extraPlugins: 'sourcedialog',
+    removePlugins: 'sourcearea'
+  } );
+</script>
 </body>
 
 </html>

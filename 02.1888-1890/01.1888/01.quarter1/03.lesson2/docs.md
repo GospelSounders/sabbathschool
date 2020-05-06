@@ -1,8 +1,8 @@
 ---
 title: Lesson 2
 metadata:
-    description: Sabbath School Lesson. Old Testament History. Lesson 1. January 14, 1888. Creation and the Sabbath. 
-    keywords: Sabbath School Lesson, Old Testament History, Creation and the Sabbath, Lesson 1. January 14, 1888. Creation.
+    description: Sabbath School Lesson. Old Testament History. Lesson 2. January 14, 1888. Creation and the Sabbath. 
+    keywords: Sabbath School Lesson, Old Testament History, Creation and the Sabbath, Lesson 2. January 14, 1888. Creation.
     author: Brian Onang'o
 TOC: false
 ---
