@@ -1,3 +1,3 @@
-# CHRISTIAN TEMPERANCE
+# Sabbath School
 
-Code for christian temperance [website](https://christiantemperance.org/).
+Code for Sabbath School [website](https://sabbathschool.gospelsounders.org/).
