@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adventhymnaltools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "convert-array-to-csv": "^1.0.9",
+    "esm": "^3.2.25",
+    "fs-extra": "^8.1.0",
+    "jsmidgen": "^0.1.5",
+    "midi-file-parser": "^1.0.0",
+    "midi-node": "^0.1.13",
+    "midi-parser-js": "^4.0.4"
+  }
+}
