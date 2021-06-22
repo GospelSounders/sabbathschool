@@ -4,8 +4,8 @@ metadata:
     description: The current project makes readily available in one place and in a more useable form a database of all the Sabbath School Lessons from the year 1888 to the present time, with the exception of the ones that everyone will admit that they were so corrupted that they would do the reader more positive injury than they would benefit him. Here is yet another ambitious project carried out after the manner of Advent Hymnals and Christian Temperancefor the benefit of those who would benefit from the experiences of those who have gone on before us - our fathers, our grandfathers down to the earliest generation of the adventists who rose out of the great disappointment in 1844 to form that church which is in prophecy identified as the the remnant of her seed, the church of Philadelphia.  
     keywords: Sabbath School Lessons, old sabbath school lessons, sabbath school lessons archive
     author: Brian Onang'o
-theme: gospelSounders
-page: homepage
+theme: GS
+template: homepage
 layout: none
 toc: false
 ---
