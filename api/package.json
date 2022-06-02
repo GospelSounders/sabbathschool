@@ -22,7 +22,7 @@
     "mysql2": "^2.2.5",
     "node-etc": "^1.1.6",
     "nodemailer": "^6.5.0",
-    "npm": "^7.6.3",
+    "npm": "^8.11.0",
     "object-length": "^0.2.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
