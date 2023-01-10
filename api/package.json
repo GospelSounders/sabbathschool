@@ -25,7 +25,7 @@
     "npm": "^7.6.3",
     "object-length": "^0.2.0",
     "passport": "^0.4.1",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
     "randomstring": "^1.1.5",
     "sentence-case": "^3.0.4",
